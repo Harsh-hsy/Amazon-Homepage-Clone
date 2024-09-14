@@ -13,7 +13,7 @@ Font Awesome: For icons used in the navigation bar and other sections.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Harsh-hsy/amazon_homepage_clone.git
+   git clone https://github.com/Harsh-hsy/amazon-homepage-clone.git
 
 2. Navigate to the project directory:
    cd Amazon_Homepage_Clone
