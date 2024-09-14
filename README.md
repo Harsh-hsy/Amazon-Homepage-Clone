@@ -30,5 +30,8 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 1. Amazon: For the inspiration to create this clone.
 2. Font Awesome: For providing the icons used in the project.
 
+# Screenshots
+Here are some screenshots of the Amazon Homepage Clone:
+
 ![Screenshot 2024-09-14 203146](https://github.com/user-attachments/assets/8f1cfd61-531d-40d6-93a4-24c722ae3d67)
 ![Screenshot 2024-09-14 203201](https://github.com/user-attachments/assets/f2560304-44f5-4df5-b227-cb3e2af70a06)
