@@ -5,9 +5,9 @@ This project is a clone of the Amazon homepage, created using HTML and CSS. The 
 Welcome to the Amazon Homepage Clone project! This project aims to recreate the Amazon homepage using HTML and CSS. It is a great way to practice front-end web development skills and understand the structure and styling of a complex web page.
 
 # Technologies Used
-HTML: For the structure of the web page.
-CSS: For styling and layout.
-Font Awesome: For icons used in the navigation bar and other sections.
+1. HTML: For the structure of the web page.
+2. CSS: For styling and layout.
+3. Font Awesome: For icons used in the navigation bar and other sections.
 
 # Setup
 To run this project locally, follow these steps:
@@ -27,5 +27,5 @@ Feel free to explore the project and make modifications. You can use this projec
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Acknowledgements
-Amazon: For the inspiration to create this clone.
-Font Awesome: For providing the icons used in the project.
+1. Amazon: For the inspiration to create this clone.
+2. Font Awesome: For providing the icons used in the project.
