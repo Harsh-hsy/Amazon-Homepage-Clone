@@ -5,7 +5,7 @@ This project is a clone of the homepage of **Amazon**, one of the largest e-comm
 ---
 
 ## 🚀 Live Demo
-Check out the live version of the project here: [Amazon Homepage Clone](#)  
+Check out the live version of the project here: [Amazon Homepage Clone](https://harsh-hsy.github.io/Amazon-Homepage-Clone/)  
 *(Replace `#` with your deployed link once available.)*
 
 ---
