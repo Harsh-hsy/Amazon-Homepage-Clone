@@ -24,6 +24,3 @@ Check out the live version of the project here: [Amazon Homepage Clone](https://
 
 - **HTML5**: For structuring the content of the webpage.
 - **CSS3**: To style the page and make it visually appealing.
-- **JavaScript**: For adding interactivity and dynamic elements.
-- **Bootstrap** *(Optional)*: For faster layout design and responsive components.
-- **Figma/Photoshop** *(Optional)*: Used to analyze and prototype the original design.
