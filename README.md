@@ -4,11 +4,6 @@ This project is a clone of the homepage of **Amazon**, one of the largest e-comm
 
 ---
 
-## 🚀 Live Demo
-Check out the live version of the project here: [Amazon Homepage Clone](https://harsh-hsy.github.io/Amazon-Homepage-Clone/)  
-
----
-
 ## 🛠️ Features
 
 - **Responsive Design**: Adaptable to various screen sizes, ensuring usability on desktops, tablets, and smartphones.
